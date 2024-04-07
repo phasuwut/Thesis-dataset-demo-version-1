@@ -1,0 +1,122 @@
+{
+    "os": "Linux-5.15.0-91-generic-x86_64-with-glibc2.35",
+    "python": "3.10.12",
+    "heartbeatAt": "2024-03-17T08:12:18.062132",
+    "startedAt": "2024-03-17T08:12:13.779292",
+    "docker": null,
+    "cuda": null,
+    "args": [],
+    "state": "running",
+    "program": "workspace/YOLO/Cloud (Runpod)/GPU (NVIDIA RTX A5000)/YOLO V8/YOLO-V8s.ipynb",
+    "codePathLocal": null,
+    "root": "/",
+    "host": "dbc8c30a37a8",
+    "username": "root",
+    "executable": "/usr/bin/python",
+    "cpu_count": 8,
+    "cpu_count_logical": 16,
+    "cpu_freq": {
+        "current": 3230.484875,
+        "min": 800.0,
+        "max": 4800.0
+    },
+    "cpu_freq_per_core": [
+        {
+            "current": 2900.0,
+            "min": 800.0,
+            "max": 4800.0
+        },
+        {
+            "current": 2900.0,
+            "min": 800.0,
+            "max": 4800.0
+        },
+        {
+            "current": 2900.0,
+            "min": 800.0,
+            "max": 4800.0
+        },
+        {
+            "current": 2900.0,
+            "min": 800.0,
+            "max": 4800.0
+        },
+        {
+            "current": 2900.0,
+            "min": 800.0,
+            "max": 4800.0
+        },
+        {
+            "current": 2900.0,
+            "min": 800.0,
+            "max": 4800.0
+        },
+        {
+            "current": 2900.0,
+            "min": 800.0,
+            "max": 4800.0
+        },
+        {
+            "current": 4670.068,
+            "min": 800.0,
+            "max": 4800.0
+        },
+        {
+            "current": 2900.0,
+            "min": 800.0,
+            "max": 4800.0
+        },
+        {
+            "current": 2900.0,
+            "min": 800.0,
+            "max": 4800.0
+        },
+        {
+            "current": 2900.0,
+            "min": 800.0,
+            "max": 4800.0
+        },
+        {
+            "current": 2900.0,
+            "min": 800.0,
+            "max": 4800.0
+        },
+        {
+            "current": 2900.0,
+            "min": 800.0,
+            "max": 4800.0
+        },
+        {
+            "current": 2900.0,
+            "min": 800.0,
+            "max": 4800.0
+        },
+        {
+            "current": 4675.32,
+            "min": 800.0,
+            "max": 4800.0
+        },
+        {
+            "current": 4642.37,
+            "min": 800.0,
+            "max": 4800.0
+        }
+    ],
+    "disk": {
+        "/": {
+            "total": 20.0,
+            "used": 0.671630859375
+        }
+    },
+    "gpu": "NVIDIA RTX A5000",
+    "gpu_count": 1,
+    "gpu_devices": [
+        {
+            "name": "NVIDIA RTX A5000",
+            "memory_total": 25757220864
+        }
+    ],
+    "memory": {
+        "total": 31.25650405883789
+    }
+}
